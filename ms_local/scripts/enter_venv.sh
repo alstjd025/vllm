@@ -34,3 +34,4 @@ echo "  VENV_DIR      = $VENV_DIR"
 echo "  Python        = $(which python)"
 echo "========================================"
 
+set +e +u
