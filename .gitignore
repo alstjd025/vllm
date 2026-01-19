@@ -196,9 +196,6 @@ AGENTS.md
 # DS Store
 .DS_Store
 
-# Results
-*.csv
-
 # Python pickle files
 *.pkl
 
